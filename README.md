@@ -1,8 +1,8 @@
 # PHYS227 HW 6
 
-**Author:** _\<your name\>_
+**Author:** Andrew Malfavon
 
-[![Build Status](https://travis-ci.org/chapman-phys227-2016s/hw-6-YOURNAME.svg?branch=master)](https://travis-ci.org/chapman-phys227-2016s/hw-6-YOURNAME)
+[![Build Status](https://travis-ci.org/chapman-phys227-2016s/hw-6-malfa100.svg?branch=master)](https://travis-ci.org/chapman-phys227-2016s/hw-6-malfa100)
 
 **Due date:** 2016/03/17
 
@@ -30,4 +30,4 @@ I pledge that all the work in this repository is my own with only the following 
 
 Signed,
 
-_\<your name\>_
+Andrew Malfavon_
