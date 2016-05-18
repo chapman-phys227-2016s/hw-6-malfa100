@@ -2,7 +2,7 @@ language: python
 python:
   - "2.7"
 # command to install dependencies
-install: "pip install pylint sympy matplotlib"
+install: "pip install pylint matplotlib sympy"
 # command to run tests
 script:
   - "nosetests *.py"
