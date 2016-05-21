@@ -1,6 +1,6 @@
 # PHYS227 HW 6
 
-**Author:** Andrew Malfavon
+**Author:** Andrew Malfavon 
 
 [![Build Status](https://travis-ci.org/chapman-phys227-2016s/hw-6-malfa100.svg?branch=master)](https://travis-ci.org/chapman-phys227-2016s/hw-6-malfa100)
 
